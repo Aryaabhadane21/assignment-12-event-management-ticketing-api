@@ -245,3 +245,5 @@ See the `/docs` folder for:
 ## 👩‍💻 Author
 
 **Aryaa Bhadane** — Assignment 12
+
+DEPLOYMENT LINK: https://event-management-ticketing-api.onrender.com/

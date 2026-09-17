@@ -6,6 +6,7 @@ node_modules/
 
 # Firebase service account — contains private keys, never commit
 serviceAccountKey.json
+*firebase-adminsdk*.json
 
 # OS artifacts
 .DS_Store
